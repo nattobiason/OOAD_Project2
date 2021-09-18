@@ -6,11 +6,6 @@ public class GameStore {
     int addedFundsToRegister;
     int day;
 
-    public void emptyRegister(){
-        cashRegister += 1000.00;
-        addedFundsToRegister += 1;
-    }
-
     public void fillShelves(){
         shelves[0] = new Games("Monopoly", "Family", 19.99, 15, 10, 2);
         shelves[1] = new Games("Clue", "Family", 18.99, 10, 10, 2);
