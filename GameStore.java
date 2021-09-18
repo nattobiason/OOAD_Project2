@@ -69,19 +69,18 @@ class EmployeeTasks extends GameStore{ /* EXAMPLE OF INHERITANCE */
         System.out.println("Store closed. " + cashierName + " is leaving.");
     }
     public static void main(String[] args) {
-        GameStore store = new GameStore();
-        EmployeeTasks tasks = new EmployeeTasks();
+        EmployeeTasks store = new EmployeeTasks();
         store.fillShelves();
         while(store.day<30){
             /* simulate game for 30 days */
-            tasks.pickCashier();
-            tasks.arrive();
-            tasks.count();
-            tasks.vacuum();
-            tasks.stack();
-            tasks.open();
-            tasks.order();
-            tasks.close();
+            store.pickCashier();
+            store.arrive();
+            store.count();
+            store.vacuum();
+            store.stack();
+            store.open();
+            store.order();
+            store.close();
             store.day++;
         }
 
