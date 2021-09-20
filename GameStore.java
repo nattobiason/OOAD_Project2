@@ -39,26 +39,91 @@ public class GameStore {
 class EmployeeTasks extends GameStore{ /* EXAMPLE OF INHERITANCE */
     String cashierName;
     void pickCashier(){
+        int randomNum = getRandomInt(0,1);
+        if(randomNum==0){
+            cashierName="Burt";
+        }
+        else{
+            cashierName="Ernie";
+        }
         // randomly select cashier and set cashierName
         // can use getRandomInt()
     }
     void arrive(){
-
+        System.out.println(cashierName + " the Cashier has arrived at the store on Day "+day);
+        for(int i=0;i<12;i++){
+            if(shelves[i].delivered==true){
+                shelves[i].inventory=3;
+                System.out.println("3 "+shelves[i].name + " have been delivered ");
+                shelves[i].delivered=false;
+                stack();
+            }
+        }
     }
     void count(){
-        
+        if(cashRegister<100){
+            cashRegister=cashRegister+1000;
+            addedFundsToRegister=addedFundsToRegister+1;
+            System.out.println("There is $"+cashRegister +" in the cash register");
+            System.out.println("Added  1000 to the register on day "+day);
+        }
+        else{
+            System.out.println("There is $"+cashRegister +" in the cash register");
+        }
     }
     void vacuum(){
-
+        System.out.println(cashierName+" is vacuuming ");
+        int randomNum = getRandomInt(0,20);
+        int lim=1;
+        if(cashierName=="Burt"){
+            lim=lim+1;
+        }
+        if(randomNum<lim){
+            int r = getRandomInt(0,11);
+            shelves[r].damaged=shelves[r].damaged+1;
+            shelves[r].inventory=shelves[r].inventory-1;
+            System.out.println(cashierName+" damaged "+shelves[r].name);
+        }
     }
     void stack(){
 
     }
     void open(){
+        System.out.println(cashierName + " has opened the store!");
+        int randomNum = ThreadLocalRandom.current().nextInt(0, 5);
+        for(int i=0;i<randomNum;i++){
+            int prob=20;
+            int bought=0;
+            for(int j=0;j<12;j++){
+                int a = ThreadLocalRandom.current().nextInt(0, 100);
+                if(bought==2){
+                    break;
+                }
+                if(a<=prob){
+                    if(shelves[j].inventory!=0){
+                        bought=bought+1;
+                        cashRegister=cashRegister+shelves[j].price;
+                        shelves[j].inventory=shelves[j].inventory-1;
+                        shelves[j].sold=shelves[j].sold+1;
+                        System.out.println(cashierName + " sold a "+shelves[j].name + " to customer " + i + " for "+ shelves[j].price);
+                    }
+                }
+                prob=prob-2;
+            }
+            if(bought==0){
+                System.out.println(cashierName + " did not sell anything to customer " + i);
+            }
+        }
 
     }
     void order(){
-
+        for (int i = 0; i < 12; i++) {
+            if(shelves[i].inventory==0){
+                shelves[i].delivered=true;
+                cashRegister=cashRegister-shelves[i].price*3;
+                System.out.println(cashierName + " Bought "+shelves[i].name);
+            }
+          }
     }
     void close(){
         System.out.println("Store closed. " + cashierName + " is leaving.");
@@ -82,7 +147,7 @@ class EmployeeTasks extends GameStore{ /* EXAMPLE OF INHERITANCE */
         /* once 30 days are over */
         for(int i = 0; i < 12; i++){
             System.out.println(store.shelves[i].name);
-            System.out.println("   inevntory:" +store.shelves[i].inventory);
+            System.out.println("   inventory:" +store.shelves[i].inventory);
             System.out.println("   number sold:" + store.shelves[i].sold);
             double sales = store.shelves[i].sold * store.shelves[i].price;
             System.out.println("   total sales:" + sales);
