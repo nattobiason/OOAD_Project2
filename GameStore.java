@@ -2,12 +2,12 @@ import java.util.concurrent.ThreadLocalRandom;
 import java.lang.Math;
 
 public class GameStore {    /* ABSTRACTION */ 
-    Games[] shelves = new Games[12];
-    double cashRegister;
-    int addedFundsToRegister;
-    int day;
+    Games[] shelves = new Games[12]; // shelves for customers to browse, employees stack() and restock here as well
+    double cashRegister; // funds in register
+    int addedFundsToRegister; // increases each time $1000 added to register
+    int day; // day 1 - day 30
 
-    public void fillShelves(){
+    public void fillShelves(){ // fully stocks all games on day 1
         shelves[0] = new Games("Monopoly", "Family", 19.99, 15, 10, 2);
         shelves[1] = new Games("Clue", "Family", 18.99, 10, 10, 2);
         shelves[2] = new Games("Life", "Family", 19.99, 16, 11, 3);
@@ -25,12 +25,12 @@ public class GameStore {    /* ABSTRACTION */
         shelves[11] = new Games("Gloomhaven", "Board", 99.99, 16, 12, 8);
     }
 
-    int getRandomInt(int min, int max){
+    int getRandomInt(int min, int max){ // gets random number between min and max -- taken from geeksforgeeks
         int randomNum = ThreadLocalRandom.current().nextInt(min, max + 1);
         return randomNum;
     }
 
-    public GameStore(){
+    public GameStore(){ // constructor for day 1
         cashRegister = 0.0;
         day = 1;
         addedFundsToRegister = 0;
@@ -39,7 +39,7 @@ public class GameStore {    /* ABSTRACTION */
 
 class EmployeeTasks extends GameStore{ /* INHERITANCE */ 
     private String cashierName; /* ENCAPSULATION */
-    void pickCashier(){
+    void pickCashier(){ // randomly assigns cashier for the day
         int randomNum = getRandomInt(0,1);
         if(randomNum==0){
             cashierName="Burt";
@@ -47,7 +47,9 @@ class EmployeeTasks extends GameStore{ /* INHERITANCE */
         else{
             cashierName="Ernie";
         }
+        arrive();
     }
+    // all functions below this are explained in instructions
     void arrive(){
         System.out.println(cashierName + " the Cashier has arrived at the store on Day "+day);
         for(int i=0;i<12;i++){
@@ -57,6 +59,7 @@ class EmployeeTasks extends GameStore{ /* INHERITANCE */
                 shelves[i].delivered=false;
             }
         }
+        count();
     }
     void count(){
         if(cashRegister<100.00){
@@ -68,6 +71,7 @@ class EmployeeTasks extends GameStore{ /* INHERITANCE */
         else{
             System.out.println("There is $"+cashRegister +" in the cash register");
         }
+        vacuum();
     }
     void vacuum(){
         System.out.println(cashierName+" is vacuuming ");
@@ -82,6 +86,7 @@ class EmployeeTasks extends GameStore{ /* INHERITANCE */
             shelves[r].inventory=shelves[r].inventory-1;
             System.out.println(cashierName+" damaged "+shelves[r].name);
         }
+        stack();
     }
     void stack(){
         if(cashierName == "Ernie"){
@@ -115,6 +120,7 @@ class EmployeeTasks extends GameStore{ /* INHERITANCE */
                 System.out.println("Burt stacks "+ shelves[i].inventory + " " + shelves[i].name + " games in shelf position " + i + " (pile width = "+ shelves[i].dimensions[1]+ "in)");
             }
         }
+        open();
     }
     void open(){
         System.out.println(cashierName + " has opened the store!");
@@ -142,7 +148,7 @@ class EmployeeTasks extends GameStore{ /* INHERITANCE */
                 System.out.println(cashierName + " did not sell anything to customer " + i);
             }
         }
-    
+        order();
     }
     void order(){
         for (int i = 0; i < 12; i++) {
@@ -152,6 +158,7 @@ class EmployeeTasks extends GameStore{ /* INHERITANCE */
                 System.out.println(cashierName + " ordered "+shelves[i].name);
             }
           }
+          close();
     }
     void close(){
         System.out.println("Store closed. " + cashierName + " is leaving.");
@@ -161,19 +168,12 @@ class EmployeeTasks extends GameStore{ /* INHERITANCE */
     public static void main(String[] args) {
         EmployeeTasks store = new EmployeeTasks(); /* IDENTITY */
         store.fillShelves();
-        while(store.day<=30){
+        while(store.day<=30){ // simulate store for 30 days
             store.pickCashier();
-            store.arrive();
-            store.count();
-            store.vacuum();
-            store.stack();
-            store.open();
-            store.order();
-            store.close();
             store.day++;
         }
 
-        /* once 30 days are over */
+        // below is printed info after 30 days are up
         for(int i = 0; i < 12; i++){
             Games temp = store.shelves[i];
             
@@ -205,8 +205,8 @@ class Games { /* HIGH COHESION - Games class only exists to give info about each
     int dimensions[] = new int[3]; // l x w x h
     int sold;
     int inventory;
-    int damaged; 
-    boolean delivered; 
+    int damaged; // number of damaged games
+    boolean delivered; // wether or not there was a delivery last night
 
     public Games(String n, String c, double p, int l, int w, int h){
         name = n;
