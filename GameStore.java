@@ -1,7 +1,7 @@
 import java.util.concurrent.ThreadLocalRandom;
 import java.lang.Math;
 
-public class GameStore {
+public class GameStore {    /* ABSTRACTION */ 
     Games[] shelves = new Games[12];
     double cashRegister;
     int addedFundsToRegister;
@@ -37,8 +37,8 @@ public class GameStore {
     }
 }
 
-class EmployeeTasks extends GameStore{ /* EXAMPLE OF INHERITANCE */
-    String cashierName;
+class EmployeeTasks extends GameStore{ /* INHERITANCE */ 
+    private String cashierName; /* ENCAPSULATION */
     void pickCashier(){
         int randomNum = getRandomInt(0,1);
         if(randomNum==0){
@@ -47,11 +47,6 @@ class EmployeeTasks extends GameStore{ /* EXAMPLE OF INHERITANCE */
         else{
             cashierName="Ernie";
         }
-    }
-    public static void swap(Games[]a, int i, int j){
-        Games temp = a[i];
-        a[i] = a[j];
-        a[j] = temp;
     }
     void arrive(){
         System.out.println(cashierName + " the Cashier has arrived at the store on Day "+day);
@@ -105,7 +100,7 @@ class EmployeeTasks extends GameStore{ /* EXAMPLE OF INHERITANCE */
             }
         }
 
-        else if(cashierName == "Burt"){
+        else if(cashierName == "Burt"){ /* POLYMORPHISM */
             for (int i = 11; i >= 0; i--)
             {
                 int max_idx = i;
@@ -164,10 +159,9 @@ class EmployeeTasks extends GameStore{ /* EXAMPLE OF INHERITANCE */
         cashRegister = Math.floor(cashRegister * 100) / 100;
     }
     public static void main(String[] args) {
-        EmployeeTasks store = new EmployeeTasks();
+        EmployeeTasks store = new EmployeeTasks(); /* IDENTITY */
         store.fillShelves();
-        while(store.day<30){
-            /* simulate game for 30 days */
+        while(store.day<=30){
             store.pickCashier();
             store.arrive();
             store.count();
@@ -203,7 +197,7 @@ class EmployeeTasks extends GameStore{ /* EXAMPLE OF INHERITANCE */
     }
 }
 
-class Games {
+class Games { /* HIGH COHESION - Games class only exists to give info about each game (well defined job) */
 
     String name;
     String category;
