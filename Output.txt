@@ -1,700 +1,699 @@
-Ernie the Cashier has arrived at the store on Day 1
-There is $1000.0 in the cash register
-Added  $1000 to the register on day 1
-Ernie is vacuuming 
-Ernie stacks 3 Pokemon games in shelf position 0 (pile height = 3in)
-Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
-Ernie stacks 3 Candyland games in shelf position 2 (pile height = 6in)
-Ernie stacks 3 Connect Four games in shelf position 3 (pile height = 6in)
-Ernie stacks 3 Magic games in shelf position 4 (pile height = 6in)
-Ernie stacks 3 Monopoly games in shelf position 5 (pile height = 6in)
-Ernie stacks 3 Clue games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Catan games in shelf position 7 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Life games in shelf position 9 (pile height = 9in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie did not sell anything to customer 1
-Store closed. Ernie is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 2
-There is $1000.0 in the cash register
-Ernie is vacuuming 
-Ernie stacks 3 Pokemon games in shelf position 0 (pile height = 3in)
-Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
-Ernie stacks 3 Candyland games in shelf position 2 (pile height = 6in)
-Ernie stacks 3 Connect Four games in shelf position 3 (pile height = 6in)
-Ernie stacks 3 Magic games in shelf position 4 (pile height = 6in)
-Ernie stacks 3 Monopoly games in shelf position 5 (pile height = 6in)
-Ernie stacks 3 Clue games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Catan games in shelf position 7 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Life games in shelf position 9 (pile height = 9in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie sold a Candyland to customer 1 for 12.99
-Ernie sold a Catan to customer 1 for 41.92
-Store closed. Ernie is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 3
-There is $1054.91 in the cash register
-Ernie is vacuuming 
-Ernie stacks 3 Pokemon games in shelf position 0 (pile height = 3in)
-Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
-Ernie stacks 2 Candyland games in shelf position 2 (pile height = 4in)
-Ernie stacks 2 Catan games in shelf position 3 (pile height = 4in)
-Ernie stacks 3 Magic games in shelf position 4 (pile height = 6in)
-Ernie stacks 3 Monopoly games in shelf position 5 (pile height = 6in)
-Ernie stacks 3 Clue games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Connect Four games in shelf position 7 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Life games in shelf position 9 (pile height = 9in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie sold a Pokemon to customer 1 for 3.99
-Store closed. Ernie is leaving.
- 
-Burt the Cashier has arrived at the store on Day 4
-There is $1058.9 in the cash register
-Burt is vacuuming 
-Burt damaged Mousetrap
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Life games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Connect Four games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 3 Monopoly games in shelf position 5 (pile width = 10in)
-Burt stacks 2 Mousetrap games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 3 Netrunner games in shelf position 1 (pile width = 2in)
-Burt stacks 2 Pokemon games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Netrunner to customer 1 for 10.99
-Burt sold a Life to customer 1 for 19.99
-Burt sold a Pokemon to customer 2 for 3.99
-Burt sold a Netrunner to customer 2 for 10.99
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 5
-There is $1104.86 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Connect Four games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 3 Monopoly games in shelf position 5 (pile width = 10in)
-Burt stacks 2 Mousetrap games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 1 (pile width = 2in)
-Burt stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt did not sell anything to customer 1
-Burt sold a Pokemon to customer 2 for 3.99
-Burt sold a Netrunner to customer 2 for 10.99
-Burt sold a Mousetrap to customer 3 for 24.89
-Burt sold a Monopoly to customer 3 for 19.99
-Burt ordered Pokemon
-Burt ordered Netrunner
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 6
-3 Pokemon have been delivered 
-3 Netrunner have been delivered 
-There is $1142.25 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Connect Four games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 2 Monopoly games in shelf position 5 (pile width = 10in)
-Burt stacks 1 Mousetrap games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 3 Netrunner games in shelf position 1 (pile width = 2in)
-Burt stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Mousetrap to customer 1 for 24.89
-Burt sold a Connect Four to customer 1 for 11.99
-Burt sold a Monopoly to customer 2 for 19.99
-Burt ordered Mousetrap
-Store closed. Burt is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 7
-3 Mousetrap have been delivered 
-There is $1161.78 in the cash register
-Ernie is vacuuming 
-Ernie stacks 1 Monopoly games in shelf position 0 (pile height = 2in)
-Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
-Ernie stacks 3 Pokemon games in shelf position 2 (pile height = 3in)
-Ernie stacks 2 Catan games in shelf position 3 (pile height = 4in)
-Ernie stacks 2 Connect Four games in shelf position 4 (pile height = 4in)
-Ernie stacks 2 Candyland games in shelf position 5 (pile height = 4in)
-Ernie stacks 3 Clue games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 7 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Magic games in shelf position 9 (pile height = 6in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie sold a Monopoly to customer 1 for 19.99
-Ernie sold a Netrunner to customer 1 for 10.99
-Ernie sold a Netrunner to customer 2 for 10.99
-Ernie sold a Pokemon to customer 2 for 3.99
-Ernie did not sell anything to customer 3
-Ernie ordered Monopoly
-Store closed. Ernie is leaving.
- 
-Burt the Cashier has arrived at the store on Day 8
-3 Monopoly have been delivered 
-There is $1177.75 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Monopoly games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 3 Mousetrap games in shelf position 5 (pile width = 10in)
-Burt stacks 2 Connect Four games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 2 Pokemon games in shelf position 2 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 1 (pile width = 2in)
-Burt stacks 3 Magic games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Magic to customer 1 for 39.99
-Burt sold a Mousetrap to customer 1 for 24.89
-Store closed. Burt is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 9
-There is $1242.63 in the cash register
-Ernie is vacuuming 
-Ernie stacks 1 Netrunner games in shelf position 0 (pile height = 1in)
-Ernie stacks 2 Pokemon games in shelf position 1 (pile height = 2in)
-Ernie stacks 2 Magic games in shelf position 2 (pile height = 4in)
-Ernie stacks 2 Catan games in shelf position 3 (pile height = 4in)
-Ernie stacks 2 Connect Four games in shelf position 4 (pile height = 4in)
-Ernie stacks 2 Candyland games in shelf position 5 (pile height = 4in)
-Ernie stacks 3 Clue games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Monopoly games in shelf position 7 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 9 (pile height = 6in)
-Ernie stacks 2 Mousetrap games in shelf position 10 (pile height = 8in)
-Ernie has opened the store!
-Ernie did not sell anything to customer 1
-Ernie did not sell anything to customer 2
-Ernie did not sell anything to customer 3
-Store closed. Ernie is leaving.
- 
-Burt the Cashier has arrived at the store on Day 10
-There is $1242.63 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Monopoly games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 2 Mousetrap games in shelf position 5 (pile width = 10in)
-Burt stacks 2 Connect Four games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 2 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 2 Pokemon games in shelf position 1 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt did not sell anything to customer 1
-Burt did not sell anything to customer 2
-Burt sold a Connect Four to customer 3 for 11.99
-Burt sold a Clue to customer 3 for 18.99
-Store closed. Burt is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 11
-There is $1273.61 in the cash register
-Ernie is vacuuming 
-Ernie stacks 1 Netrunner games in shelf position 0 (pile height = 1in)
-Ernie stacks 2 Pokemon games in shelf position 1 (pile height = 2in)
-Ernie stacks 1 Connect Four games in shelf position 2 (pile height = 2in)
-Ernie stacks 2 Catan games in shelf position 3 (pile height = 4in)
-Ernie stacks 2 Magic games in shelf position 4 (pile height = 4in)
-Ernie stacks 2 Clue games in shelf position 5 (pile height = 4in)
-Ernie stacks 2 Candyland games in shelf position 6 (pile height = 4in)
-Ernie stacks 3 Monopoly games in shelf position 7 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 9 (pile height = 6in)
-Ernie stacks 2 Mousetrap games in shelf position 10 (pile height = 8in)
-Ernie has opened the store!
-Ernie sold a Magic to customer 1 for 39.99
-Ernie sold a Clue to customer 1 for 18.99
-Ernie did not sell anything to customer 2
-Ernie sold a Netrunner to customer 3 for 10.99
-Ernie sold a Connect Four to customer 3 for 11.99
-Ernie ordered Netrunner
-Ernie ordered Connect Four
-Store closed. Ernie is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 12
-3 Netrunner have been delivered 
-3 Connect Four have been delivered 
-There is $1321.1 in the cash register
-Ernie is vacuuming 
-Ernie stacks 2 Pokemon games in shelf position 0 (pile height = 2in)
-Ernie stacks 1 Magic games in shelf position 1 (pile height = 2in)
-Ernie stacks 1 Clue games in shelf position 2 (pile height = 2in)
-Ernie stacks 3 Netrunner games in shelf position 3 (pile height = 3in)
-Ernie stacks 2 Catan games in shelf position 4 (pile height = 4in)
-Ernie stacks 2 Candyland games in shelf position 5 (pile height = 4in)
-Ernie stacks 3 Connect Four games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Monopoly games in shelf position 7 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 9 (pile height = 6in)
-Ernie stacks 2 Mousetrap games in shelf position 10 (pile height = 8in)
-Ernie has opened the store!
-Ernie sold a Magic to customer 1 for 39.99
-Ernie did not sell anything to customer 2
-Ernie ordered Magic
-Store closed. Ernie is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 13
-3 Magic have been delivered 
-There is $1301.1 in the cash register
-Ernie is vacuuming 
-Ernie stacks 2 Pokemon games in shelf position 0 (pile height = 2in)
-Ernie stacks 1 Clue games in shelf position 1 (pile height = 2in)
-Ernie stacks 3 Netrunner games in shelf position 2 (pile height = 3in)
-Ernie stacks 2 Catan games in shelf position 3 (pile height = 4in)
-Ernie stacks 2 Candyland games in shelf position 4 (pile height = 4in)
-Ernie stacks 3 Magic games in shelf position 5 (pile height = 6in)
-Ernie stacks 3 Connect Four games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Monopoly games in shelf position 7 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 9 (pile height = 6in)
-Ernie stacks 2 Mousetrap games in shelf position 10 (pile height = 8in)
-Ernie has opened the store!
-Ernie sold a Connect Four to customer 1 for 11.99
-Store closed. Ernie is leaving.
- 
-Burt the Cashier has arrived at the store on Day 14
-There is $1313.09 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Monopoly games in shelf position 7 (pile width = 10in)
-Burt stacks 2 Connect Four games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
-Burt stacks 2 Mousetrap games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Netrunner games in shelf position 2 (pile width = 2in)
-Burt stacks 3 Magic games in shelf position 1 (pile width = 2in)
-Burt stacks 2 Pokemon games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Pokemon to customer 1 for 3.99
-Burt sold a Pokemon to customer 2 for 3.99
-Burt sold a Netrunner to customer 3 for 10.99
-Burt sold a Monopoly to customer 3 for 19.99
-Burt ordered Pokemon
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 15
-3 Pokemon have been delivered 
-There is $1346.06 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 8 (pile width = 11in)
-Burt stacks 2 Monopoly games in shelf position 7 (pile width = 10in)
-Burt stacks 2 Connect Four games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
-Burt stacks 2 Mousetrap games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 2 Netrunner games in shelf position 2 (pile width = 2in)
-Burt stacks 3 Magic games in shelf position 1 (pile width = 2in)
-Burt stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Mousetrap to customer 1 for 24.89
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 16
-There is $1370.95 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 8 (pile width = 11in)
-Burt stacks 2 Monopoly games in shelf position 7 (pile width = 10in)
-Burt stacks 2 Connect Four games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
-Burt stacks 1 Mousetrap games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 2 Netrunner games in shelf position 2 (pile width = 2in)
-Burt stacks 3 Magic games in shelf position 1 (pile width = 2in)
-Burt stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Pokemon to customer 1 for 3.99
-Burt sold a Connect Four to customer 2 for 11.99
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 17
-There is $1386.93 in the cash register
-Burt is vacuuming 
-Burt damaged Candyland
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 1 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 8 (pile width = 11in)
-Burt stacks 2 Monopoly games in shelf position 7 (pile width = 10in)
-Burt stacks 1 Connect Four games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
-Burt stacks 1 Mousetrap games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 2 Netrunner games in shelf position 2 (pile width = 2in)
-Burt stacks 3 Magic games in shelf position 1 (pile width = 2in)
-Burt stacks 2 Pokemon games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Pokemon to customer 1 for 3.99
-Burt sold a Netrunner to customer 1 for 10.99
-Burt did not sell anything to customer 2
-Burt did not sell anything to customer 3
-Burt sold a Mousetrap to customer 4 for 24.89
-Burt sold a Clue to customer 4 for 18.99
-Burt ordered Mousetrap
-Burt ordered Clue
-Store closed. Burt is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 18
-3 Mousetrap have been delivered 
-3 Clue have been delivered 
-There is $1379.97 in the cash register
-Ernie is vacuuming 
-Ernie stacks 1 Pokemon games in shelf position 0 (pile height = 1in)
-Ernie stacks 1 Netrunner games in shelf position 1 (pile height = 1in)
-Ernie stacks 1 Connect Four games in shelf position 2 (pile height = 2in)
-Ernie stacks 1 Candyland games in shelf position 3 (pile height = 2in)
-Ernie stacks 2 Monopoly games in shelf position 4 (pile height = 4in)
-Ernie stacks 2 Catan games in shelf position 5 (pile height = 4in)
-Ernie stacks 3 Magic games in shelf position 6 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 7 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Clue games in shelf position 9 (pile height = 6in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie sold a Pokemon to customer 1 for 3.99
-Ernie sold a Monopoly to customer 1 for 19.99
-Ernie sold a Connect Four to customer 2 for 11.99
-Ernie ordered Pokemon
-Ernie ordered Connect Four
-Store closed. Ernie is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 19
-3 Pokemon have been delivered 
-3 Connect Four have been delivered 
-There is $1391.97 in the cash register
-Ernie is vacuuming 
-Ernie stacks 1 Netrunner games in shelf position 0 (pile height = 1in)
-Ernie stacks 1 Candyland games in shelf position 1 (pile height = 2in)
-Ernie stacks 1 Monopoly games in shelf position 2 (pile height = 2in)
-Ernie stacks 3 Pokemon games in shelf position 3 (pile height = 3in)
-Ernie stacks 2 Catan games in shelf position 4 (pile height = 4in)
-Ernie stacks 3 Connect Four games in shelf position 5 (pile height = 6in)
-Ernie stacks 3 Magic games in shelf position 6 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 7 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Clue games in shelf position 9 (pile height = 6in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie did not sell anything to customer 1
-Ernie did not sell anything to customer 2
-Ernie sold a Magic to customer 3 for 39.99
-Store closed. Ernie is leaving.
- 
-Burt the Cashier has arrived at the store on Day 20
-There is $1431.96 in the cash register
-Burt is vacuuming 
-Burt damaged Connect Four
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 1 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Clue games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Mousetrap games in shelf position 6 (pile width = 10in)
-Burt stacks 2 Connect Four games in shelf position 5 (pile width = 10in)
-Burt stacks 1 Monopoly games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Pokemon games in shelf position 2 (pile width = 2in)
-Burt stacks 2 Magic games in shelf position 1 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt did not sell anything to customer 1
-Burt sold a Pokemon to customer 2 for 3.99
-Burt sold a Connect Four to customer 3 for 11.99
-Burt sold a Candyland to customer 3 for 12.99
-Burt did not sell anything to customer 4
-Burt ordered Candyland
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 21
-3 Candyland have been delivered 
-There is $1441.44 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 3 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Clue games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Mousetrap games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
-Burt stacks 1 Monopoly games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 2 Pokemon games in shelf position 2 (pile width = 2in)
-Burt stacks 2 Magic games in shelf position 1 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Magic to customer 1 for 39.99
-Burt sold a Magic to customer 2 for 39.99
-Burt did not sell anything to customer 3
-Burt sold a Monopoly to customer 4 for 19.99
-Burt ordered Magic
-Burt ordered Monopoly
-Store closed. Burt is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 22
-3 Magic have been delivered 
-3 Monopoly have been delivered 
-There is $1451.44 in the cash register
-Ernie is vacuuming 
-Ernie stacks 1 Netrunner games in shelf position 0 (pile height = 1in)
-Ernie stacks 2 Pokemon games in shelf position 1 (pile height = 2in)
-Ernie stacks 1 Connect Four games in shelf position 2 (pile height = 2in)
-Ernie stacks 2 Catan games in shelf position 3 (pile height = 4in)
-Ernie stacks 3 Monopoly games in shelf position 4 (pile height = 6in)
-Ernie stacks 3 Magic games in shelf position 5 (pile height = 6in)
-Ernie stacks 3 Clue games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 7 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Candyland games in shelf position 9 (pile height = 6in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie sold a Pokemon to customer 1 for 3.99
-Ernie sold a Netrunner to customer 2 for 10.99
-Ernie ordered Netrunner
-Store closed. Ernie is leaving.
- 
-Burt the Cashier has arrived at the store on Day 23
-3 Netrunner have been delivered 
-There is $1449.93 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 3 Risk games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Candyland games in shelf position 9 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Mousetrap games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
-Burt stacks 3 Monopoly games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 1 Pokemon games in shelf position 1 (pile width = 2in)
-Burt stacks 3 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Netrunner to customer 1 for 10.99
-Burt did not sell anything to customer 2
-Burt sold a Netrunner to customer 3 for 10.99
-Store closed. Burt is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 24
-There is $1471.91 in the cash register
-Ernie is vacuuming 
-Ernie stacks 1 Netrunner games in shelf position 0 (pile height = 1in)
-Ernie stacks 1 Pokemon games in shelf position 1 (pile height = 1in)
-Ernie stacks 1 Connect Four games in shelf position 2 (pile height = 2in)
-Ernie stacks 2 Catan games in shelf position 3 (pile height = 4in)
-Ernie stacks 3 Monopoly games in shelf position 4 (pile height = 6in)
-Ernie stacks 3 Magic games in shelf position 5 (pile height = 6in)
-Ernie stacks 3 Clue games in shelf position 6 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 7 (pile height = 6in)
-Ernie stacks 3 Candyland games in shelf position 8 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 9 (pile height = 6in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie did not sell anything to customer 1
-Store closed. Ernie is leaving.
- 
-Burt the Cashier has arrived at the store on Day 25
-There is $1471.91 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Life games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Candyland games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Mousetrap games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
-Burt stacks 3 Monopoly games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 1 Pokemon games in shelf position 1 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 26
-There is $1471.91 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Life games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Candyland games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Mousetrap games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
-Burt stacks 3 Monopoly games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 1 Pokemon games in shelf position 1 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 27
-There is $1471.91 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Life games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Candyland games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Mousetrap games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
-Burt stacks 3 Monopoly games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 1 Pokemon games in shelf position 1 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Store closed. Burt is leaving.
- 
-Burt the Cashier has arrived at the store on Day 28
-There is $1471.91 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 2 Life games in shelf position 10 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Candyland games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Mousetrap games in shelf position 7 (pile width = 10in)
-Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
-Burt stacks 3 Monopoly games in shelf position 4 (pile width = 10in)
-Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 1 Pokemon games in shelf position 1 (pile width = 2in)
-Burt stacks 1 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Burt sold a Monopoly to customer 1 for 19.99
-Burt did not sell anything to customer 2
-Store closed. Burt is leaving.
- 
-Ernie the Cashier has arrived at the store on Day 29
-There is $1491.9 in the cash register
-Ernie is vacuuming 
-Ernie stacks 1 Netrunner games in shelf position 0 (pile height = 1in)
-Ernie stacks 1 Pokemon games in shelf position 1 (pile height = 1in)
-Ernie stacks 1 Connect Four games in shelf position 2 (pile height = 2in)
-Ernie stacks 2 Catan games in shelf position 3 (pile height = 4in)
-Ernie stacks 2 Monopoly games in shelf position 4 (pile height = 4in)
-Ernie stacks 3 Magic games in shelf position 5 (pile height = 6in)
-Ernie stacks 3 Clue games in shelf position 6 (pile height = 6in)
-Ernie stacks 3 Candyland games in shelf position 7 (pile height = 6in)
-Ernie stacks 3 Risk games in shelf position 8 (pile height = 6in)
-Ernie stacks 2 Life games in shelf position 9 (pile height = 6in)
-Ernie stacks 3 Mousetrap games in shelf position 10 (pile height = 12in)
-Ernie has opened the store!
-Ernie sold a Netrunner to customer 1 for 10.99
-Ernie sold a Pokemon to customer 1 for 3.99
-Ernie sold a Catan to customer 2 for 41.92
-Ernie sold a Clue to customer 2 for 18.99
-Ernie did not sell anything to customer 3
-Ernie ordered Netrunner
-Ernie ordered Pokemon
-Store closed. Ernie is leaving.
- 
-Burt the Cashier has arrived at the store on Day 30
-3 Netrunner have been delivered 
-3 Pokemon have been delivered 
-There is $1545.32 in the cash register
-Burt is vacuuming 
-Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
-Burt stacks 3 Candyland games in shelf position 10 (pile width = 11in)
-Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
-Burt stacks 3 Risk games in shelf position 8 (pile width = 11in)
-Burt stacks 3 Mousetrap games in shelf position 7 (pile width = 10in)
-Burt stacks 2 Clue games in shelf position 6 (pile width = 10in)
-Burt stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
-Burt stacks 2 Monopoly games in shelf position 4 (pile width = 10in)
-Burt stacks 1 Catan games in shelf position 3 (pile width = 7in)
-Burt stacks 3 Magic games in shelf position 2 (pile width = 2in)
-Burt stacks 3 Pokemon games in shelf position 1 (pile width = 2in)
-Burt stacks 3 Netrunner games in shelf position 0 (pile width = 2in)
-Burt has opened the store!
-Store closed. Burt is leaving.
- 
-Netrunner
-   inevntory: 3
-   number sold: 12
-   total sales: 131.88
+Guy says: Bart has arrived
+Guy says: added $1000 to register
+Gonger had arrived
+Guy says: Bart stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Bart stacks 3 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Bart stacks 3 Catan games in shelf position 9 (pile width = 7in)
+Guy says: Bart stacks 3 Netrunner games in shelf position 8 (pile width = 2in)
+Guy says: Bart stacks 3 Pokemon games in shelf position 7 (pile width = 2in)
+Guy says: Bart stacks 3 Magic games in shelf position 6 (pile width = 2in)
+Guy says: Bart stacks 3 Connect Four games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 3 Candyland games in shelf position 4 (pile width = 11in)
+Guy says: Bart stacks 3 MouseTrap games in shelf position 3 (pile width = 10in)
+Guy says: Bart stacks 3 Life games in shelf position 2 (pile width = 11in)
+Guy says: Bart stacks 3 Clue games in shelf position 1 (pile width = 10in)
+Guy says: Bart stacks 3 Monopoly games in shelf position 0 (pile width = 10in)
+Guy says: The store has opened! Day: 1
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: $1000.0 in the register
+Gonger had arrived
+Guy says: Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 3 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 3 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 3 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 3 Monopoly games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 3 Clue games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 3 Connect Four games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 3 MouseTrap games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 3 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 3 Netrunner games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 3 Magic games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 2
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Gloomhaven
+Customer 2 bought 1 cookies
+Guy says: Customer 2 bought Risk
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: $1125.48 in the register
+Gonger had arrived
+Guy says: Bart stacks 2 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Bart stacks 2 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Bart stacks 3 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 3 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Bart stacks 3 Monopoly games in shelf position 7 (pile width = 10in)
+Guy says: Bart stacks 3 Clue games in shelf position 6 (pile width = 10in)
+Guy says: Bart stacks 3 Connect Four games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 3 MouseTrap games in shelf position 4 (pile width = 10in)
+Guy says: Bart stacks 3 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Bart stacks 3 Netrunner games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 3 Magic games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 3
+Customer 1 bought 3 cookies
+Guy says: Customer 1 bought Magic
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: $1159.47 in the register
+Gonger had arrived
+Guy says: Ernie stacks 3 Pokemon games in shelf position 0 (pile height = 3in)
+Guy says: Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
+Guy says: Ernie stacks 2 Magic games in shelf position 2 (pile height = 4in)
+Guy says: Ernie stacks 2 Risk games in shelf position 3 (pile height = 4in)
+Guy says: Ernie stacks 3 Connect Four games in shelf position 4 (pile height = 6in)
+Guy says: Ernie stacks 3 Clue games in shelf position 5 (pile height = 6in)
+Guy says: Ernie stacks 3 Monopoly games in shelf position 6 (pile height = 6in)
+Guy says: Ernie stacks 3 Candyland games in shelf position 7 (pile height = 6in)
+Guy says: Ernie stacks 3 Catan games in shelf position 8 (pile height = 6in)
+Guy says: Ernie stacks 3 Life games in shelf position 9 (pile height = 9in)
+Guy says: Ernie stacks 3 MouseTrap games in shelf position 10 (pile height = 12in)
+Guy says: Ernie stacks 2 Gloomhaven games in shelf position 11 (pile height = 16in)
+Guy says: The store has opened! Day: 4
+Customer 1 bought 3 cookies
+Guy says: Customer 1 bought no games
+Customer 2 bought 2 cookies
+Guy says: Customer 2 bought no games
+Customer 3 bought 3 cookies
+Guy says: Customer 3 bought Candyland
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: $1156.46 in the register
+Gonger had arrived
+Guy says: Ernie stacks 3 Pokemon games in shelf position 0 (pile height = 3in)
+Guy says: Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
+Guy says: Ernie stacks 2 Magic games in shelf position 2 (pile height = 4in)
+Guy says: Ernie stacks 2 Risk games in shelf position 3 (pile height = 4in)
+Guy says: Ernie stacks 2 Candyland games in shelf position 4 (pile height = 4in)
+Guy says: Ernie stacks 3 Clue games in shelf position 5 (pile height = 6in)
+Guy says: Ernie stacks 3 Monopoly games in shelf position 6 (pile height = 6in)
+Guy says: Ernie stacks 3 Connect Four games in shelf position 7 (pile height = 6in)
+Guy says: Ernie stacks 3 Catan games in shelf position 8 (pile height = 6in)
+Guy says: Ernie stacks 3 Life games in shelf position 9 (pile height = 9in)
+Guy says: Ernie stacks 3 MouseTrap games in shelf position 10 (pile height = 12in)
+Guy says: Ernie stacks 2 Gloomhaven games in shelf position 11 (pile height = 16in)
+Guy says: The store has opened! Day: 5
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Gloomhaven
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: $1252.45 in the register
+Gonger had arrived
+Guy says: Ernie stacks 3 Pokemon games in shelf position 0 (pile height = 3in)
+Guy says: Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
+Guy says: Ernie stacks 2 Magic games in shelf position 2 (pile height = 4in)
+Guy says: Ernie stacks 2 Risk games in shelf position 3 (pile height = 4in)
+Guy says: Ernie stacks 2 Candyland games in shelf position 4 (pile height = 4in)
+Guy says: Ernie stacks 3 Clue games in shelf position 5 (pile height = 6in)
+Guy says: Ernie stacks 3 Monopoly games in shelf position 6 (pile height = 6in)
+Guy says: Ernie stacks 3 Connect Four games in shelf position 7 (pile height = 6in)
+Guy says: Ernie stacks 3 Catan games in shelf position 8 (pile height = 6in)
+Guy says: Ernie stacks 1 Gloomhaven games in shelf position 9 (pile height = 8in)
+Guy says: Ernie stacks 3 Life games in shelf position 10 (pile height = 9in)
+Guy says: Ernie stacks 3 MouseTrap games in shelf position 11 (pile height = 12in)
+Guy says: The store has opened! Day: 6
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Life
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: $1268.44 in the register
+Gonger had arrived
+Guy says: Ernie stacks 3 Pokemon games in shelf position 0 (pile height = 3in)
+Guy says: Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
+Guy says: Ernie stacks 2 Magic games in shelf position 2 (pile height = 4in)
+Guy says: Ernie stacks 2 Risk games in shelf position 3 (pile height = 4in)
+Guy says: Ernie stacks 2 Candyland games in shelf position 4 (pile height = 4in)
+Guy says: Ernie stacks 3 Clue games in shelf position 5 (pile height = 6in)
+Guy says: Ernie stacks 3 Monopoly games in shelf position 6 (pile height = 6in)
+Guy says: Ernie stacks 3 Connect Four games in shelf position 7 (pile height = 6in)
+Guy says: Ernie stacks 3 Catan games in shelf position 8 (pile height = 6in)
+Guy says: Ernie stacks 2 Life games in shelf position 9 (pile height = 6in)
+Guy says: Ernie stacks 1 Gloomhaven games in shelf position 10 (pile height = 8in)
+Guy says: Ernie stacks 3 MouseTrap games in shelf position 11 (pile height = 12in)
+Guy says: The store has opened! Day: 7
+Customer 1 bought 1 cookies
+Guy says: Customer 1 bought Candyland
+Customer 2 bought 1 cookies
+Guy says: Customer 2 bought no games
+Customer 3 bought 3 cookies
+Guy says: Customer 3 bought Candyland
+Guy says: Customer 3 bought Clue
+Guy says: Ernie ordered 3 Candyland
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: 3 Candyland were delivered
+Guy says: $1283.92 in the register
+Gonger had arrived
+Guy says: Bart stacks 3 MouseTrap games in shelf position 11 (pile width = 10in)
+Guy says: Bart stacks 1 Gloomhaven games in shelf position 10 (pile width = 12in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 3 Catan games in shelf position 8 (pile width = 7in)
+Guy says: Bart stacks 3 Connect Four games in shelf position 7 (pile width = 10in)
+Guy says: Bart stacks 3 Monopoly games in shelf position 6 (pile width = 10in)
+Guy says: Bart stacks 2 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 3 Candyland games in shelf position 4 (pile width = 11in)
+Guy says: Bart stacks 2 Risk games in shelf position 3 (pile width = 11in)
+Guy says: Bart stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 3 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 8
+Customer 1 bought 1 cookies
+Guy says: Customer 1 bought no games
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: $1281.92 in the register
+Gonger had arrived
+Guy says: Bart stacks 3 MouseTrap games in shelf position 11 (pile width = 10in)
+Guy says: Bart stacks 1 Gloomhaven games in shelf position 10 (pile width = 12in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 3 Catan games in shelf position 8 (pile width = 7in)
+Guy says: Bart stacks 3 Connect Four games in shelf position 7 (pile width = 10in)
+Guy says: Bart stacks 3 Monopoly games in shelf position 6 (pile width = 10in)
+Guy says: Bart stacks 2 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 3 Candyland games in shelf position 4 (pile width = 11in)
+Guy says: Bart stacks 2 Risk games in shelf position 3 (pile width = 11in)
+Guy says: Bart stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 3 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 9
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Clue
+Customer 2 bought 2 cookies
+Guy says: Customer 2 bought Catan
+Customer 3 bought 0 cookies
+Guy says: Customer 3 bought Connect Four
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: $1346.82 in the register
+Gonger had arrived
+Guy says: Ernie stacks 1 Clue games in shelf position 0 (pile height = 2in)
+Guy says: Ernie stacks 3 Netrunner games in shelf position 1 (pile height = 3in)
+Guy says: Ernie stacks 3 Pokemon games in shelf position 2 (pile height = 3in)
+Guy says: Ernie stacks 2 Risk games in shelf position 3 (pile height = 4in)
+Guy says: Ernie stacks 2 Magic games in shelf position 4 (pile height = 4in)
+Guy says: Ernie stacks 2 Connect Four games in shelf position 5 (pile height = 4in)
+Guy says: Ernie stacks 2 Catan games in shelf position 6 (pile height = 4in)
+Guy says: Ernie stacks 3 Candyland games in shelf position 7 (pile height = 6in)
+Guy says: Ernie stacks 3 Monopoly games in shelf position 8 (pile height = 6in)
+Guy says: Ernie stacks 2 Life games in shelf position 9 (pile height = 6in)
+Guy says: Ernie stacks 1 Gloomhaven games in shelf position 10 (pile height = 8in)
+Guy says: Ernie stacks 3 MouseTrap games in shelf position 11 (pile height = 12in)
+Guy says: The store has opened! Day: 10
+Customer 1 bought 1 cookies
+Guy says: Customer 1 bought no games
+Customer 2 bought 1 cookies
+Guy says: Customer 2 bought no games
+Customer 3 bought 1 cookies
+Guy says: Customer 3 bought Risk
+Guy says: Customer 3 bought Gloomhaven
+Customer 4 bought 2 cookies
+Guy says: Customer 4 bought MouseTrap
+Guy says: Ernie ordered 3 Gloomhaven
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: 3 Gloomhaven were delivered
+Guy says: $1343.2 in the register
+Gonger had arrived
+Guy says: Bart stacks 2 MouseTrap games in shelf position 11 (pile width = 10in)
+Guy says: Bart stacks 3 Gloomhaven games in shelf position 10 (pile width = 12in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 3 Monopoly games in shelf position 8 (pile width = 10in)
+Guy says: Bart stacks 3 Candyland games in shelf position 7 (pile width = 11in)
+Guy says: Bart stacks 2 Catan games in shelf position 6 (pile width = 7in)
+Guy says: Bart stacks 2 Connect Four games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 2 Magic games in shelf position 4 (pile width = 2in)
+Guy says: Bart stacks 1 Risk games in shelf position 3 (pile width = 11in)
+Guy says: Bart stacks 3 Pokemon games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 3 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 1 Clue games in shelf position 0 (pile width = 10in)
+Guy says: The store has opened! Day: 11
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Gloomhaven
+Guy says: Customer 1 bought MouseTrap
+Customer 2 bought 3 cookies
+Guy says: Customer 2 bought no games
+Customer 3 bought 1 cookies
+Guy says: Customer 3 bought no games
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: $1456.08 in the register
+Gonger had arrived
+Guy says: Bart stacks 1 MouseTrap games in shelf position 11 (pile width = 10in)
+Guy says: Bart stacks 2 Gloomhaven games in shelf position 10 (pile width = 12in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 3 Monopoly games in shelf position 8 (pile width = 10in)
+Guy says: Bart stacks 3 Candyland games in shelf position 7 (pile width = 11in)
+Guy says: Bart stacks 2 Catan games in shelf position 6 (pile width = 7in)
+Guy says: Bart stacks 2 Connect Four games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 2 Magic games in shelf position 4 (pile width = 2in)
+Guy says: Bart stacks 1 Risk games in shelf position 3 (pile width = 11in)
+Guy says: Bart stacks 3 Pokemon games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 3 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 1 Clue games in shelf position 0 (pile width = 10in)
+Guy says: The store has opened! Day: 12
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: $1456.08 in the register
+Gonger had arrived
+Guy says: Ernie stacks 1 Clue games in shelf position 0 (pile height = 2in)
+Guy says: Ernie stacks 1 Risk games in shelf position 1 (pile height = 2in)
+Guy says: Ernie stacks 3 Pokemon games in shelf position 2 (pile height = 3in)
+Guy says: Ernie stacks 3 Netrunner games in shelf position 3 (pile height = 3in)
+Guy says: Ernie stacks 2 Magic games in shelf position 4 (pile height = 4in)
+Guy says: Ernie stacks 2 Connect Four games in shelf position 5 (pile height = 4in)
+Guy says: Ernie stacks 2 Catan games in shelf position 6 (pile height = 4in)
+Guy says: Ernie stacks 1 MouseTrap games in shelf position 7 (pile height = 4in)
+Guy says: Ernie stacks 3 Monopoly games in shelf position 8 (pile height = 6in)
+Guy says: Ernie stacks 2 Life games in shelf position 9 (pile height = 6in)
+Guy says: Ernie stacks 3 Candyland games in shelf position 10 (pile height = 6in)
+Guy says: Ernie stacks 2 Gloomhaven games in shelf position 11 (pile height = 16in)
+Guy says: The store has opened! Day: 13
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Netrunner
+Guy says: Customer 1 bought Gloomhaven
+Customer 2 bought 3 cookies
+Guy says: Customer 2 bought Pokemon
+Guy says: Customer 2 bought Candyland
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: $1574.04 in the register
+Gonger had arrived
+Guy says: Burt stacks 1 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 1 Risk games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 1 MouseTrap games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 1 Clue games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 2 Connect Four games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 3 Monopoly games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 2 Pokemon games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 2 Magic games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 2 Netrunner games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 14
+Customer 1 bought 1 cookies
+Guy says: Customer 1 bought Pokemon
+Guy says: Customer 1 bought Connect Four
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: $1588.02 in the register
+Gonger had arrived
+Guy says: Ernie stacks 1 Pokemon games in shelf position 0 (pile height = 1in)
+Guy says: Ernie stacks 2 Netrunner games in shelf position 1 (pile height = 2in)
+Guy says: Ernie stacks 1 Connect Four games in shelf position 2 (pile height = 2in)
+Guy says: Ernie stacks 1 Clue games in shelf position 3 (pile height = 2in)
+Guy says: Ernie stacks 1 Risk games in shelf position 4 (pile height = 2in)
+Guy says: Ernie stacks 2 Magic games in shelf position 5 (pile height = 4in)
+Guy says: Ernie stacks 2 Catan games in shelf position 6 (pile height = 4in)
+Guy says: Ernie stacks 1 MouseTrap games in shelf position 7 (pile height = 4in)
+Guy says: Ernie stacks 2 Candyland games in shelf position 8 (pile height = 4in)
+Guy says: Ernie stacks 2 Life games in shelf position 9 (pile height = 6in)
+Guy says: Ernie stacks 3 Monopoly games in shelf position 10 (pile height = 6in)
+Guy says: Ernie stacks 1 Gloomhaven games in shelf position 11 (pile height = 8in)
+Guy says: The store has opened! Day: 15
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: $1588.02 in the register
+Gonger had arrived
+Guy says: Burt stacks 1 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 1 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 2 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 1 MouseTrap games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 1 Connect Four games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 3 Monopoly games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 2 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 16
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Risk
+Customer 2 bought 1 cookies
+Guy says: Customer 2 bought no games
+Guy says: Burt ordered 3 Risk
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: 3 Risk were delivered
+Guy says: $1566.27 in the register
+Gonger had arrived
+Guy says: Ernie stacks 1 Pokemon games in shelf position 0 (pile height = 1in)
+Guy says: Ernie stacks 2 Netrunner games in shelf position 1 (pile height = 2in)
+Guy says: Ernie stacks 1 Clue games in shelf position 2 (pile height = 2in)
+Guy says: Ernie stacks 1 Connect Four games in shelf position 3 (pile height = 2in)
+Guy says: Ernie stacks 2 Magic games in shelf position 4 (pile height = 4in)
+Guy says: Ernie stacks 2 Catan games in shelf position 5 (pile height = 4in)
+Guy says: Ernie stacks 1 MouseTrap games in shelf position 6 (pile height = 4in)
+Guy says: Ernie stacks 2 Candyland games in shelf position 7 (pile height = 4in)
+Guy says: Ernie stacks 3 Monopoly games in shelf position 8 (pile height = 6in)
+Guy says: Ernie stacks 2 Life games in shelf position 9 (pile height = 6in)
+Guy says: Ernie stacks 3 Risk games in shelf position 10 (pile height = 6in)
+Guy says: Ernie stacks 1 Gloomhaven games in shelf position 11 (pile height = 8in)
+Guy says: The store has opened! Day: 17
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought no games
+Customer 2 bought 2 cookies
+Guy says: Customer 2 bought no games
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: $1558.27 in the register
+Gonger had arrived
+Guy says: Burt stacks 1 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 3 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 2 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 3 Monopoly games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 1 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 1 Connect Four games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 2 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 18
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: $1558.27 in the register
+Gonger had arrived
+Guy says: Bart stacks 1 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Bart stacks 3 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 2 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Bart stacks 3 Monopoly games in shelf position 7 (pile width = 10in)
+Guy says: Bart stacks 1 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Bart stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 1 Connect Four games in shelf position 4 (pile width = 10in)
+Guy says: Bart stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Bart stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 2 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 19
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: $1558.27 in the register
+Gonger had arrived
+Guy says: Burt stacks 1 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 3 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 2 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 3 Monopoly games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 1 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 1 Connect Four games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 2 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 20
+Customer 1 bought 3 cookies
+Guy says: Customer 1 bought no games
+Customer 2 bought 0 cookies
+Guy says: Customer 2 bought MouseTrap
+Customer 3 bought 0 cookies
+Guy says: Customer 3 bought no games
+Customer 4 bought 0 cookies
+Guy says: Customer 4 bought Monopoly
+Guy says: Burt ordered 3 MouseTrap
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: 3 MouseTrap were delivered
+Guy says: $1559.81 in the register
+Gonger had arrived
+Guy says: Burt stacks 1 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 3 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 2 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 2 Monopoly games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 3 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 1 Connect Four games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 2 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 21
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: $1559.81 in the register
+Gonger had arrived
+Guy says: Ernie broke Risk
+Guy says: Ernie stacks 1 Pokemon games in shelf position 0 (pile height = 1in)
+Guy says: Ernie stacks 2 Netrunner games in shelf position 1 (pile height = 2in)
+Guy says: Ernie stacks 1 Connect Four games in shelf position 2 (pile height = 2in)
+Guy says: Ernie stacks 1 Clue games in shelf position 3 (pile height = 2in)
+Guy says: Ernie stacks 2 Magic games in shelf position 4 (pile height = 4in)
+Guy says: Ernie stacks 2 Catan games in shelf position 5 (pile height = 4in)
+Guy says: Ernie stacks 2 Monopoly games in shelf position 6 (pile height = 4in)
+Guy says: Ernie stacks 2 Candyland games in shelf position 7 (pile height = 4in)
+Guy says: Ernie stacks 2 Risk games in shelf position 8 (pile height = 4in)
+Guy says: Ernie stacks 2 Life games in shelf position 9 (pile height = 6in)
+Guy says: Ernie stacks 1 Gloomhaven games in shelf position 10 (pile height = 8in)
+Guy says: Ernie stacks 3 MouseTrap games in shelf position 11 (pile height = 12in)
+Guy says: The store has opened! Day: 22
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought MouseTrap
+Customer 2 bought 1 cookies
+Guy says: Customer 2 bought no games
+Customer 3 bought 0 cookies
+Guy says: Customer 3 bought no games
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: $1578.7 in the register
+Gonger had arrived
+Guy says: Burt stacks 1 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 2 Candyland games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 2 Risk games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 2 MouseTrap games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 2 Monopoly games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 1 Clue games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 2 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 23
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Monopoly
+Customer 2 bought 2 cookies
+Guy says: Customer 2 bought Gloomhaven
+Customer 3 bought 0 cookies
+Guy says: Customer 3 bought no games
+Guy says: Burt ordered 3 Gloomhaven
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: 3 Gloomhaven were delivered
+Guy says: $1540.69 in the register
+Gonger had arrived
+Guy says: Bart stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Bart stacks 2 Candyland games in shelf position 10 (pile width = 11in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 2 Risk games in shelf position 8 (pile width = 11in)
+Guy says: Bart stacks 2 MouseTrap games in shelf position 7 (pile width = 10in)
+Guy says: Bart stacks 1 Monopoly games in shelf position 6 (pile width = 10in)
+Guy says: Bart stacks 1 Connect Four games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 1 Clue games in shelf position 4 (pile width = 10in)
+Guy says: Bart stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Bart stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 2 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 24
+Customer 1 bought 1 cookies
+Guy says: Customer 1 bought MouseTrap
+Guy says: Customer 1 bought 2 special pieces
+Customer 2 bought 1 cookies
+Guy says: Customer 2 bought Netrunner
+Guy says: Customer 2 bought Connect Four
+Guy says: Bart ordered 3 Connect Four
+Guy says: Store is closing :(
+Guy says: Ernie has arrived
+Guy says: 3 Connect Four were delivered
+Guy says: $1554.13 in the register
+Gonger had arrived
+Guy says: Ernie stacks 1 Pokemon games in shelf position 0 (pile height = 1in)
+Guy says: Ernie stacks 1 Netrunner games in shelf position 1 (pile height = 1in)
+Guy says: Ernie stacks 1 Clue games in shelf position 2 (pile height = 2in)
+Guy says: Ernie stacks 1 Monopoly games in shelf position 3 (pile height = 2in)
+Guy says: Ernie stacks 2 Magic games in shelf position 4 (pile height = 4in)
+Guy says: Ernie stacks 2 Catan games in shelf position 5 (pile height = 4in)
+Guy says: Ernie stacks 1 MouseTrap games in shelf position 6 (pile height = 4in)
+Guy says: Ernie stacks 2 Risk games in shelf position 7 (pile height = 4in)
+Guy says: Ernie stacks 2 Candyland games in shelf position 8 (pile height = 4in)
+Guy says: Ernie stacks 2 Life games in shelf position 9 (pile height = 6in)
+Guy says: Ernie stacks 3 Connect Four games in shelf position 10 (pile height = 6in)
+Guy says: Ernie stacks 3 Gloomhaven games in shelf position 11 (pile height = 24in)
+Guy says: The store has opened! Day: 25
+Customer 1 bought 1 cookies
+Guy says: Customer 1 bought no games
+Customer 2 bought 3 cookies
+Guy says: Customer 2 bought Catan
+Guy says: Customer 2 bought MouseTrap
+Guy says: Customer 2 bought 1 special pieces
+Guy says: Ernie ordered 3 MouseTrap
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: 3 MouseTrap were delivered
+Guy says: $1572.49 in the register
+Gonger had arrived
+Guy says: Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 2 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 2 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 3 Connect Four games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 3 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 1 Monopoly games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 1 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 1 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 26
+Customer 1 bought 1 cookies
+Guy says: Customer 1 bought Connect Four
+Customer 2 bought 3 cookies
+Guy says: Customer 2 bought Catan
+Guy says: Burt ordered 3 Catan
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: 3 Catan were delivered
+Guy says: $1555.52 in the register
+Gonger had arrived
+Guy says: Bart stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Bart stacks 2 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 2 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Bart stacks 2 Connect Four games in shelf position 7 (pile width = 10in)
+Guy says: Bart stacks 3 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Bart stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 1 Monopoly games in shelf position 4 (pile width = 10in)
+Guy says: Bart stacks 3 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Bart stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 1 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 1 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 27
+Customer 1 bought 2 cookies
+Guy says: Customer 1 bought Pokemon
+Guy says: Customer 1 bought 1 special pieces
+Guy says: Customer 1 bought Risk
+Customer 2 bought 2 cookies
+Guy says: Customer 2 bought Candyland
+Customer 3 bought 0 cookies
+Guy says: Customer 3 bought no games
+Guy says: Bart ordered 3 Pokemon
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: 3 Pokemon were delivered
+Guy says: $1589.5 in the register
+Gonger had arrived
+Guy says: Bart stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Bart stacks 1 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 1 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Bart stacks 2 Connect Four games in shelf position 7 (pile width = 10in)
+Guy says: Bart stacks 3 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Bart stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 1 Monopoly games in shelf position 4 (pile width = 10in)
+Guy says: Bart stacks 3 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Bart stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 1 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 28
+Guy says: Store is closing :(
+Guy says: Burt has arrived
+Guy says: $1589.5 in the register
+Gonger had arrived
+Guy says: Burt stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Burt stacks 1 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Burt stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Burt stacks 1 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Burt stacks 2 Connect Four games in shelf position 7 (pile width = 10in)
+Guy says: Burt stacks 3 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Burt stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Burt stacks 1 Monopoly games in shelf position 4 (pile width = 10in)
+Guy says: Burt stacks 3 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Burt stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Burt stacks 1 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Burt stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 29
+Customer 1 bought 3 cookies
+Guy says: Customer 1 bought no games
+Customer 2 bought 1 cookies
+Guy says: Customer 2 bought Catan
+Customer 3 bought 0 cookies
+Guy says: Customer 3 bought MouseTrap
+Guy says: Store is closing :(
+Guy says: Bart has arrived
+Guy says: $1648.31 in the register
+Gonger had arrived
+Guy says: Bart stacks 3 Gloomhaven games in shelf position 11 (pile width = 12in)
+Guy says: Bart stacks 1 Risk games in shelf position 10 (pile width = 11in)
+Guy says: Bart stacks 2 Life games in shelf position 9 (pile width = 11in)
+Guy says: Bart stacks 1 Candyland games in shelf position 8 (pile width = 11in)
+Guy says: Bart stacks 2 Connect Four games in shelf position 7 (pile width = 10in)
+Guy says: Bart stacks 2 MouseTrap games in shelf position 6 (pile width = 10in)
+Guy says: Bart stacks 1 Clue games in shelf position 5 (pile width = 10in)
+Guy says: Bart stacks 1 Monopoly games in shelf position 4 (pile width = 10in)
+Guy says: Bart stacks 2 Catan games in shelf position 3 (pile width = 7in)
+Guy says: Bart stacks 2 Magic games in shelf position 2 (pile width = 2in)
+Guy says: Bart stacks 1 Netrunner games in shelf position 1 (pile width = 2in)
+Guy says: Bart stacks 3 Pokemon games in shelf position 0 (pile width = 2in)
+Guy says: The store has opened! Day: 30
+Guy says: Store is closing :(
 Pokemon
-   inevntory: 3
-   number sold: 12
-   total sales: 47.88
-Magic
-   inevntory: 3
-   number sold: 6
-   total sales: 239.94
-Catan
-   inevntory: 1
+   inventory: 3
+   number sold: 3
+   total sales: 11.97
+Netrunner
+   inventory: 1
    number sold: 2
-   total sales: 83.84
-Monopoly
-   inevntory: 2
-   number sold: 7
-   total sales: 139.92
-Connect Four
-   inevntory: 1
-   number sold: 7
-   total sales: 83.93
-Clue
-   inevntory: 2
+   total sales: 21.98
+Magic
+   inventory: 2
+   number sold: 1
+   total sales: 39.99
+Catan
+   inventory: 2
    number sold: 4
-   total sales: 75.95
-Mousetrap
-   inevntory: 3
+   total sales: 167.68
+Monopoly
+   inventory: 1
+   number sold: 2
+   total sales: 39.97
+Clue
+   inventory: 1
+   number sold: 2
+   total sales: 37.97
+MouseTrap
+   inventory: 2
+   number sold: 7
+   total sales: 174.23
+Connect Four
+   inventory: 2
+   number sold: 4
+   total sales: 47.96
+Candyland
+   inventory: 1
    number sold: 5
-   total sales: 124.45
-Risk
-   inevntory: 3
-   number sold: 0
-   total sales: 0.0
+   total sales: 64.95
 Life
-   inevntory: 2
+   inventory: 2
    number sold: 1
    total sales: 19.98
-Candyland
-   inevntory: 3
-   number sold: 2
-   total sales: 25.98
+Risk
+   inventory: 1
+   number sold: 4
+   total sales: 125.96
 Gloomhaven
-   inevntory: 3
-   number sold: 0
-   total sales: 0.0
+   inventory: 3
+   number sold: 6
+   total sales: 599.93
 Damaged Games:
-Connect Four: 1
-Mousetrap: 1
-Candyland: 1
-Cash Register: $1545.32
+Risk: 1
+cookies sold each day 0,3,3,8,2,2,5,1,4,5,6,0,5,1,0,3,4,0,0,3,0,3,4,2,4,4,4,0,4,0,
+cookies sold in total  80
+cookies stole by the cookie monster  0
+money paid to gonger  160.0
+Cash Register: $1648.31
 Number of times money had to be added to register: 1
